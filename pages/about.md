@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is my attempt to recreate the Milton at Western GitHub digital collection from class. I hope it works and please enjoy! This web collection was created to: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- learn how to design a website using GitHub
+- complete the requirements for my soon-to-be-concluding Digital Humanities class
+- if you are interested in seeing a website I designed from scratch for Mark Rayner's Web Design course, take a look at ([htt](https://instruct.fims.uwo.ca/alazzar/cozyroot/)
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Collection History
+This is a paragraph about my collection! 
