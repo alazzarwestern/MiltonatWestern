@@ -18,7 +18,7 @@ This is my attempt to recreate the Milton at Western GitHub digital collection f
 
 - learn how to design a website using GitHub
 - complete the requirements for my soon-to-be-concluding Digital Humanities class
-- if you are interested in seeing a website I designed from scratch for Mark Rayner's Web Design course, take a look at ([htt](https://instruct.fims.uwo.ca/alazzar/cozyroot/)
+- if you are interested in seeing a website I designed from scratch for Mark Rayner's Web Design course, take a look ([here](https://instruct.fims.uwo.ca/alazzar/cozyroot/)
 
 ## Collection History
 This is a paragraph about my collection! 
